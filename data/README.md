@@ -2,6 +2,11 @@
 
 ## Folders
 
+source data:
+
+- **Fixture Download:** https://fixturedownload.com/results/nfl-2024
+- **Sports Odds History:** https://www.sportsoddshistory.com/nfl-game-season/?y=2024
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc.
